@@ -1,8 +1,8 @@
 # CheXpert-fastai
-Implementation of CheXpert-like in fastai.
+Implementation of CheXpert in fastai.
 
 ## What is [CheXpert](https://arxiv.org/pdf/1901.07031)?
-CheXpert is a large dataset of chest X-rays and competition for automated chest x-ray interpretation, which features uncertainty labels and radiologist-labeled reference standard evaluation sets.
+CheXpert, large dataset that contains 224,316 chest radiographs of 65,240 patients and competition for automated chest x-ray interpretation, which features uncertainty labels and radiologist-labeled reference standard evaluation sets.
 
 
 ### Dataset used:
